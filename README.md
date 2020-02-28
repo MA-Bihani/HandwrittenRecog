@@ -1,4 +1,4 @@
-# HandwrittenRecog
+# Handwritten digits Recognition
 Recognition of handwritten digits based on the famous MNIST dataset
 
 Check the Report for more info about how i proceeded and how it works. (it is in french thought)
